@@ -8,7 +8,7 @@ My work combines AI engineering with product delivery: knowledge ingestion, sema
 
 [LinkedIn](https://www.linkedin.com/in/rahul-rawat-00396a1a1) · [GitHub](https://github.com/Rahulrwt99)
 
-## Flagship project: Vastu AI
+## Flagship project: [Vastu AI](https://github.com/Rahulrwt99/vastu-ai-case-study)
 
 Vastu AI is a domain-specific assistant built around a Qwen 1.5B language model and a multi-stage Retrieval-Augmented Generation pipeline.
 
@@ -31,15 +31,15 @@ Engineering highlights:
 - Chat memory with client ownership boundaries
 - FastAPI and SQLite backend connected to a Flutter application
 
-[View Vastu AI on Google Play](https://play.google.com/store/apps/details?id=app.codecrafts.vastuai&pcampaignid=web_share)
+[Engineering case study](https://github.com/Rahulrwt99/vastu-ai-case-study) · [View on Google Play](https://play.google.com/store/apps/details?id=app.codecrafts.vastuai&pcampaignid=web_share)
 
 ## Published products
 
 | Product | Focus | Release |
 | --- | --- | --- |
-| **Vastu AI** | Domain-specific LLM assistant with a multi-stage RAG pipeline | [Google Play](https://play.google.com/store/apps/details?id=app.codecrafts.vastuai&pcampaignid=web_share) |
-| **Astro Panchang Calendar** | Flutter calendar product delivered through the complete Android release lifecycle | [Google Play](https://play.google.com/store/apps/details?id=com.rahul.panchang&pcampaignid=web_share) |
-| **Secure Offline PDF Reader** | Offline-focused document reading experience for Android | [Google Play](https://play.google.com/store/apps/details?id=pdf.pdfreader.pdfviewer.pdfeditor.freepdf&pcampaignid=web_share) |
+| **[Vastu AI](https://github.com/Rahulrwt99/vastu-ai-case-study)** | Domain-specific LLM assistant with a multi-stage RAG pipeline | [Google Play](https://play.google.com/store/apps/details?id=app.codecrafts.vastuai&pcampaignid=web_share) |
+| **[Astro Panchang Calendar](https://github.com/Rahulrwt99/astro-panchang-calendar)** | Flutter calendar product delivered through the complete Android release lifecycle | [Google Play](https://play.google.com/store/apps/details?id=com.rahul.panchang&pcampaignid=web_share) |
+| **[Secure Offline PDF Reader](https://github.com/Rahulrwt99/secure-offline-pdf-reader)** | Offline-focused document reading experience for Android | [Google Play](https://play.google.com/store/apps/details?id=pdf.pdfreader.pdfviewer.pdfeditor.freepdf&pcampaignid=web_share) |
 
 ## Engineering capabilities
 
@@ -63,5 +63,4 @@ Engineering highlights:
 I am open to AI/ML engineering, LLM application, RAG system, Python/FastAPI, and AI product engineering opportunities.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/rahul-rawat-00396a1a1)
-
 
