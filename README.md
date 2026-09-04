@@ -1,66 +1,95 @@
 # Rahul Rawat
 
-### AI/ML Engineer | LLM & RAG Systems | Python/FastAPI | Flutter
+### Software Developer | Flutter · Python · FastAPI | Applied AI
 
-I build and ship AI-powered products—from retrieval and grounding pipelines to backend APIs and polished mobile experiences.
+I build and ship mobile applications, backend services, and increasingly AI-powered product features.
 
-My work combines AI engineering with product delivery: knowledge ingestion, semantic retrieval, reranking, validation, API design, persistence, client ownership, and adaptive Flutter applications.
+My strongest hands-on experience is in **Flutter, Android product development, REST APIs, FastAPI, databases, Firebase/Crashlytics, and Google Play delivery**. I am currently expanding deeper into **local LLMs, RAG, embeddings, vector retrieval, reranking, fine-tuning workflows, and AI-backed mobile products**.
+
+I have built and published **three Android applications on Google Play** and I am now applying that product-engineering experience to practical AI systems.
 
 [LinkedIn](https://www.linkedin.com/in/rahul-rawat-00396a1a1) · [GitHub](https://github.com/Rahulrwt99)
 
-## Flagship project: [Vastu AI](https://github.com/Rahulrwt99/vastu-ai-case-study)
+---
 
-Vastu AI is a domain-specific assistant built around a Qwen 1.5B language model and a multi-stage Retrieval-Augmented Generation pipeline.
+## Featured Projects
 
-```text
-Knowledge ingestion
-  → Chunking
-  → Embeddings
-  → FAISS retrieval
-  → CrossEncoder reranking
-  → Qwen generation
-  → Grounding + NLI
-  → Validated answer
-```
+### [Vastu AI](https://github.com/Rahulrwt99/vastu-ai-case-study)
 
-Engineering highlights:
+A published Flutter application with a domain-specific AI assistant backed by a Python/FastAPI service and a retrieval pipeline built around a local Qwen model.
 
-- Multi-stage retrieval using embeddings, FAISS, and CrossEncoder reranking
-- Grounding and NLI checks designed to reduce unsupported answers
-- Direction validation and domain-specific response controls
-- Chat memory with client ownership boundaries
-- FastAPI and SQLite backend connected to a Flutter application
+**Implemented in the project:**
 
-[Engineering case study](https://github.com/Rahulrwt99/vastu-ai-case-study) · [View on Google Play](https://play.google.com/store/apps/details?id=app.codecrafts.vastuai&pcampaignid=web_share)
+- Knowledge ingestion and chunking
+- Embedding-based semantic retrieval
+- FAISS vector search
+- CrossEncoder reranking
+- Retrieval-Augmented Generation (RAG)
+- Grounding and NLI-based validation
+- Domain-specific direction validation
+- Persistent chat memory and client ownership
+- FastAPI + SQLite backend integration
+- Flutter mobile client
 
-## Published products
+[Engineering case study](https://github.com/Rahulrwt99/vastu-ai-case-study) · [Google Play](https://play.google.com/store/apps/details?id=app.codecrafts.vastuai&pcampaignid=web_share)
 
-| Product | Focus | Release |
-| --- | --- | --- |
-| **[Vastu AI](https://github.com/Rahulrwt99/vastu-ai-case-study)** | Domain-specific LLM assistant with a multi-stage RAG pipeline | [Google Play](https://play.google.com/store/apps/details?id=app.codecrafts.vastuai&pcampaignid=web_share) |
-| **[Astro Panchang Calendar](https://github.com/Rahulrwt99/astro-panchang-calendar)** | Flutter calendar product delivered through the complete Android release lifecycle | [Google Play](https://play.google.com/store/apps/details?id=com.rahul.panchang&pcampaignid=web_share) |
-| **[Secure Offline PDF Reader](https://github.com/Rahulrwt99/secure-offline-pdf-reader)** | Offline-focused document reading experience for Android | [Google Play](https://play.google.com/store/apps/details?id=pdf.pdfreader.pdfviewer.pdfeditor.freepdf&pcampaignid=web_share) |
+### [Astro Panchang Calendar](https://github.com/Rahulrwt99/astro-panchang-calendar)
 
-## Engineering capabilities
+A location-aware Hindu calendar and Panchang application built with Flutter and Swiss Ephemeris integration.
 
-| AI engineering | Backend and data | Product engineering |
-| --- | --- | --- |
-| LLM applications | Python | Flutter and Dart |
-| Retrieval-Augmented Generation | FastAPI | Adaptive interfaces |
-| Embeddings and vector search | REST APIs | Android delivery |
-| FAISS retrieval | SQLite | API integration |
-| CrossEncoder reranking | Data validation | Play Store publishing |
-| Grounding and NLI | System design | End-to-end product ownership |
+Highlights include Panchang details, Hindu months, festivals, day/night Hora, day/night Choghadiya, sunrise/sunset information, planetary positions, and user-selectable location support.
 
-## What I bring
+[Case study](https://github.com/Rahulrwt99/astro-panchang-calendar) · [Google Play](https://play.google.com/store/apps/details?id=com.rahul.panchang&pcampaignid=web_share)
 
-- AI systems that go beyond prompt demos and include retrieval, reranking, validation, persistence, and client integration
-- Product ownership across model orchestration, APIs, mobile UI, and public release
-- A practical engineering approach focused on clear architecture, maintainability, and real user-facing delivery
+### [Secure Offline PDF Reader](https://github.com/Rahulrwt99/secure-offline-pdf-reader)
 
-## Connect
+An offline-focused Flutter document utility for Android with local PDF and image operations.
 
-I am open to AI/ML engineering, LLM application, RAG system, Python/FastAPI, and AI product engineering opportunities.
+The product includes document reading and utilities such as compression, lock/unlock, page reordering/deletion, and image conversion/resizing workflows, while keeping core document processing on-device.
+
+[Case study](https://github.com/Rahulrwt99/secure-offline-pdf-reader) · [Google Play](https://play.google.com/store/apps/details?id=pdf.pdfreader.pdfviewer.pdfeditor.freepdf&pcampaignid=web_share)
+
+---
+
+## Technical Focus
+
+### Product & Mobile Engineering
+
+`Flutter` · `Dart` · `Android` · `Firebase` · `Crashlytics` · `REST APIs` · `Google Play`
+
+### Backend
+
+`Python` · `FastAPI` · `SQL` · `SQLite` · `Authentication` · `API Integration`
+
+### Applied AI — currently building deeper hands-on experience
+
+`Local LLMs` · `RAG` · `Embeddings` · `FAISS` · `CrossEncoder Reranking` · `LoRA / QLoRA` · `Grounding` · `NLI`
+
+### Domain / Product Integrations
+
+`Swiss Ephemeris` · `Offline-first mobile workflows` · `Document utilities`
+
+---
+
+## Current Direction
+
+I am currently focused on strengthening my applied-AI engineering skills by building more projects around local language models, document intelligence, retrieval systems, evaluation, and production integration.
+
+My next planned project is an **AI-powered PDF organizer** that explores document extraction, summarization, semantic organization, tagging, and retrieval.
+
+---
+
+## Education
+
+**Bachelor of Technology (B.Tech) — Computer Science and Engineering**  
+Parul University · Sep 2021 – Jun 2025
+
+---
+
+## Open to Opportunities
+
+I am open to entry-level and junior opportunities across **Software Development, Flutter/Mobile Development, Python/FastAPI Backend, Applied AI, and Generative AI product development**.
+
+I am especially interested in roles where I can combine product engineering with practical AI systems and continue deepening my coding and ML/LLM experience.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/rahul-rawat-00396a1a1)
-
