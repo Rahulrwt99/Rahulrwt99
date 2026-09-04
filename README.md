@@ -4,9 +4,9 @@
 
 I build and ship mobile applications, backend services, and increasingly AI-powered product features.
 
-My strongest hands-on experience is in **Flutter, Android product development, REST APIs, FastAPI, databases, Firebase/Crashlytics, and Google Play delivery**. I am currently expanding deeper into **local LLMs, RAG, embeddings, vector retrieval, reranking, fine-tuning workflows, and AI-backed mobile products**.
+My strongest hands-on experience is in **Flutter, Android product development, REST APIs, FastAPI, databases, Firebase/Crashlytics, and Google Play delivery**. I am currently expanding deeper into **local LLMs, RAG, embeddings, vector retrieval, reranking, fine-tuning workflows, computer vision, and AI-backed products**.
 
-I have built and published **three Android applications on Google Play** and I am now applying that product-engineering experience to practical AI systems.
+I have built and published **three Android applications on Google Play** and I am now applying that product-engineering experience to practical AI and computer-vision systems.
 
 [LinkedIn](https://www.linkedin.com/in/rahul-rawat-00396a1a1) · [GitHub](https://github.com/Rahulrwt99)
 
@@ -32,6 +32,14 @@ A published Flutter application with a domain-specific AI assistant backed by a 
 - Flutter mobile client
 
 [Engineering case study](https://github.com/Rahulrwt99/vastu-ai-case-study) · [Google Play](https://play.google.com/store/apps/details?id=app.codecrafts.vastuai&pcampaignid=web_share)
+
+### [BAS Experiment Assistant](https://github.com/Rahulrwt99/bas-experiment-assistant)
+
+A research/hackathon prototype for offline astronaut experiment assistance using computer vision, temporal evidence, deterministic protocol validation, local voice guidance, and auditable mission logs.
+
+The repository includes configurable experiment protocols, object/pose/hand perception integration, AprilTag-based rack referencing, dataset capture and training scripts, tests, documentation, and explicit separation between implemented capability and future research targets.
+
+[View repository](https://github.com/Rahulrwt99/bas-experiment-assistant)
 
 ### [Astro Panchang Calendar](https://github.com/Rahulrwt99/astro-panchang-calendar)
 
@@ -65,6 +73,10 @@ The product includes document reading and utilities such as compression, lock/un
 
 `Local LLMs` · `RAG` · `Embeddings` · `FAISS` · `CrossEncoder Reranking` · `LoRA / QLoRA` · `Grounding` · `NLI`
 
+### Computer Vision / Research Prototyping
+
+`Object Detection` · `Pose / Hand Perception` · `Temporal Validation` · `AprilTag Referencing` · `Dataset Capture`
+
 ### Domain / Product Integrations
 
 `Swiss Ephemeris` · `Offline-first mobile workflows` · `Document utilities`
@@ -73,9 +85,9 @@ The product includes document reading and utilities such as compression, lock/un
 
 ## Current Direction
 
-I am currently focused on strengthening my applied-AI engineering skills by building more projects around local language models, document intelligence, retrieval systems, evaluation, and production integration.
+I am focused on strengthening my applied-AI engineering skills by building projects around local language models, document intelligence, retrieval systems, evaluation, computer vision, and production integration.
 
-My next planned project is an **AI-powered PDF organizer** that explores document extraction, summarization, semantic organization, tagging, and retrieval.
+My next planned product is an **AI-powered PDF organizer** exploring document extraction, summarization, semantic organization, tagging, and retrieval.
 
 ---
 
