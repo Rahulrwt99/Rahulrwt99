@@ -28,9 +28,9 @@ A privacy-conscious Android utility for local PDF and image workflows, including
 
 [Google Play](https://play.google.com/store/apps/details?id=pdf.pdfreader.pdfviewer.pdfeditor.freepdf&pcampaignid=web_share) · [Case study](https://github.com/Rahulrwt99/secure-offline-pdf-reader)
 
-### Mantra Counter: Japa Mala 108 — coming soon
+### [Mantra Counter: Japa Mala 108](https://github.com/Rahulrwt99/mantra-counter-japa-mala-108) — coming soon
 
-A Flutter Android app currently being prepared for its Google Play release. Its project case study will be added here when the repository is published.
+A Flutter Android app currently being prepared for its Google Play release. [View the project case study](https://github.com/Rahulrwt99/mantra-counter-japa-mala-108).
 
 ---
 
