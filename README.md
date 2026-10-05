@@ -1,80 +1,45 @@
 # Rahul Rawat
 
-### Flutter Developer | Dart · Android · Firebase
+### Flutter Developer · Android · Production mobile apps
 
-I build and ship mobile applications with **Flutter**, with a focus on clean UI, practical features, reliable app architecture, and Google Play delivery.
+I build practical Flutter applications for Android—from product idea and UI implementation to release and maintenance on Google Play. I am seeking a **Flutter Developer, Junior Mobile Developer, or Flutter Internship** opportunity.
 
-I have built and published **three Android applications** and I am currently working on **Naam Jap Counter**, a focused Flutter app for daily counting and practice.
-
-[LinkedIn](https://www.linkedin.com/in/rahul-rawat-00396a1a1) · [GitHub](https://github.com/Rahulrwt99)
+[Portfolio](https://rahulrwt99.github.io/) · [LinkedIn](https://www.linkedin.com/in/rahul-rawat-00396a1a1) · [Email](mailto:rahulrwt7977@gmail.com)
 
 ---
 
-## Featured Apps
+## Selected work
 
-### Vastu App
+### [Vastu AI](https://github.com/Rahulrwt99/vastu-ai-case-study)
 
-A Flutter-based Vastu application with practical Vastu information, a compass-based experience, and floor-plan related features.
+A Flutter Android app for Vastu guidance, including a live compass, room-placement guidance, floor-plan features, and an AI-assisted experience.
 
-[Google Play](https://play.google.com/store/apps/details?id=app.codecrafts.vastuai&pcampaignid=web_share)
+[Google Play](https://play.google.com/store/apps/details?id=app.codecrafts.vastuai&pcampaignid=web_share) · [Case study](https://github.com/Rahulrwt99/vastu-ai-case-study)
 
-### Astro Panchang Calendar
+### [Astro Panchang Calendar](https://github.com/Rahulrwt99/astro-panchang-calendar)
 
-A location-aware Hindu calendar and Panchang application built with Flutter and Swiss Ephemeris integration.
+A location-aware Hindu calendar and Panchang app. It combines a Flutter mobile experience with Swiss Ephemeris-based astronomical and calendar calculations.
 
-Highlights include Panchang details, Hindu months, festivals, day/night Hora, day/night Choghadiya, sunrise/sunset information, planetary positions, and user-selectable location support.
+[Google Play](https://play.google.com/store/apps/details?id=com.rahul.panchang&pcampaignid=web_share) · [Case study](https://github.com/Rahulrwt99/astro-panchang-calendar)
 
-[Repository](https://github.com/Rahulrwt99/astro-panchang-calendar) · [Google Play](https://play.google.com/store/apps/details?id=com.rahul.panchang&pcampaignid=web_share)
+### [Secure Offline PDF Reader](https://github.com/Rahulrwt99/secure-offline-pdf-reader)
 
-### Secure Offline PDF Reader
+A privacy-conscious Android utility for local PDF and image workflows, including reading, compression, page operations, locking, conversion, and resizing.
 
-An offline-focused Flutter document utility for Android with local PDF and image operations.
+[Google Play](https://play.google.com/store/apps/details?id=pdf.pdfreader.pdfviewer.pdfeditor.freepdf&pcampaignid=web_share) · [Case study](https://github.com/Rahulrwt99/secure-offline-pdf-reader)
 
-The product includes document reading and utilities such as compression, lock/unlock, page reordering/deletion, image conversion, and resizing workflows.
+### Mantra Counter: Japa Mala 108 — coming soon
 
-[Repository](https://github.com/Rahulrwt99/secure-offline-pdf-reader) · [Google Play](https://play.google.com/store/apps/details?id=pdf.pdfreader.pdfviewer.pdfeditor.freepdf&pcampaignid=web_share)
-
----
-
-## Currently Working On
-
-### Naam Jap Counter
-
-A clean, focused Flutter application designed around simple counting, daily practice, progress tracking, and a calm user experience.
-
-The current focus is on **UI refinement, responsive layouts, smooth interactions, and a polished Android experience**.
+A Flutter Android app currently being prepared for its Google Play release. Its project case study will be added here when the repository is published.
 
 ---
 
-## Technical Focus
-
-### Mobile Development
+## Technical focus
 
 `Flutter` · `Dart` · `Android` · `Firebase` · `Crashlytics` · `REST APIs` · `Google Play`
 
-### Flutter Engineering
+I enjoy building responsive mobile UI, integrating platform capabilities, designing offline-first workflows, debugging production issues, and shipping polished Android releases.
 
-`Responsive UI` · `State Management` · `API Integration` · `Local Data` · `App Architecture` · `Debugging` · `Testing`
+## Open to opportunities
 
-### Product Development
-
-`Clean UI` · `Offline-first workflows` · `Performance` · `App Security` · `Play Store Delivery`
-
-### Domain Integrations
-
-`Swiss Ephemeris` · `Panchang Calculations` · `PDF Utilities` · `Image Processing`
-
----
-
-## Education
-
-**Bachelor of Technology (B.Tech) — Computer Science and Engineering**  
-Parul University · Sep 2021 – Jun 2025
-
----
-
-## Open to Opportunities
-
-I am open to **Flutter Developer, Mobile App Developer, and Junior Software Developer** opportunities where I can contribute to real products and continue growing as a mobile engineer.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/rahul-rawat-00396a1a1)
+I am available for Flutter Developer, Junior Mobile Developer, and internship roles. If you are hiring, please see my [portfolio](https://rahulrwt99.github.io/) or connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-rawat-00396a1a1).
